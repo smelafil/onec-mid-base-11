@@ -12,6 +12,7 @@
     <key>ru</key>
     <value>Контактные лица контрагентов</value>
   </synonym>
+  <comment>Контактные лица</comment>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.до_КонтактныеЛица.StandardAttribute.Code</inputByString>
   <inputByString>Catalog.до_КонтактныеЛица.StandardAttribute.Description</inputByString>
